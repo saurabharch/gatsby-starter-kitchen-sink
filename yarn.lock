@@ -3847,9 +3847,10 @@ markdown-it-abbr@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/markdown-it-abbr/-/markdown-it-abbr-1.0.4.tgz#d66b5364521cbb3dd8aa59dadfba2fb6865c8fd8"
 
-markdown-it-attrs@^0.6.3:
-  version "0.6.5"
-  resolved "https://registry.yarnpkg.com/markdown-it-attrs/-/markdown-it-attrs-0.6.5.tgz#296ae4dcac260386accfed9831148d6513057a68"
+markdown-it-attrs@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/markdown-it-attrs/-/markdown-it-attrs-0.9.0.tgz#dd4dfff1ad0b7acbf16bbfa3a97041da08c25fdd"
+  integrity sha1-3U3/8a0Lesvxa7+jqXBB2gjCX90=
 
 markdown-it-deflist@^2.0.1:
   version "2.0.1"
